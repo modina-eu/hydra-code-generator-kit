@@ -3,7 +3,7 @@ hydra-code-generator-kit
 
 Web demo (via render dot com):
 
-[https://hydra-code-generator-kit.onrender.com]
+https://hydra-code-generator-kit.onrender.com
 
 (Recommended use in Chrome)
 
