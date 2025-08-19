@@ -12,7 +12,7 @@ export default defineConfig(({ command, mode, ssrBuild }) => {
       }
     },
     preview: {
-      allowedHosts: ['hydra-code-generator-kit.com'],
+      allowedHosts: ['hydra-code-generator-kit.onrender.com'],
     },
     server: {
       host: "0.0.0.0",
